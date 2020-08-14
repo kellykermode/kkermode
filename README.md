@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 Hello! ¡Hola!
+🔭 Currently working on pair-programming while building genomic-scale cloud pipelines for bioinformatics
+🌱 </br>
+💬 Ask me about how to live and work in the cloud. 
+📫 Reach me @ kkermode@gmail.com, <a href="http://twitter.com/coachk">@coachk</a></br>
+😄 Pronouns: she/her</br>
 <!--
 **kkermode/kkermode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
